@@ -1,0 +1,34 @@
+# Blender MTL File: 'poplar_01_columnar_a.blend'
+# Material Count: 3
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tree2\poplar_01_bark_diffuse.png
+
+newmtl poplar_bark_01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tree2\poplar_01_bark_diffuse.png
+
+newmtl poplar_leaves_01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd tree2\poplar_01_branch_summer_diffuse.png
+map_d tree2\\poplar_01_branch_summer_diffuse.png

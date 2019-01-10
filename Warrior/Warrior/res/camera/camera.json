@@ -1,0 +1,8 @@
+{
+    "position": [100.0, 2.0, 150.0],
+    "up": [0.0, 1.0, 0.0],
+    "yaw": -90.0,
+    "pitch": 0.0,
+    "zoom": 45.0,
+    "trailingDirection": true
+}

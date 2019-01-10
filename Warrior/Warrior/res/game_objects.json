@@ -1,0 +1,620 @@
+[
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 426.0, 10.3, -11.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 769.0, 8.3, 257.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 32.0, 1.3, -38.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 188.0, 13.3, 227.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 385.0, 2.3, 454.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 337.0, -6.3, 602.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 602.0, -0.3, 337.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 52.0, -1.3, -58.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 58.0, 1.3, 52.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 728.0, 1.3, -126.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 51.0, -2.3, -34.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 508.0, -1.0, 181.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 518.0, 1.3, -130.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 644.0, 1.9, 559.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 426.0, 1.9, -120.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 49.0, 0.5, 104.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 104.0, -2.5, 49.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 386.0, 9.5, -56.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 11.0, 0.5, 426.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 257.0, -3.8, 630.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 227.0, -13.8, 610.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 217.0, -14.8, 600.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 454.0, 9.3, 385.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 454.0, 2.0, -128.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree2.obj",
+    "position": [ 340.0, 0.5, -125.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree2.obj",
+    "position": [ 332.0, 0.5, -115.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree2.obj",
+    "position": [ 385.0, 1.0, -98.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/bushes/bush1.obj",
+    "position": [ 378.0, 1.0, -100.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/bushes/bush1.obj",
+    "position": [ 370.0, 1.0, -105.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/bushes/bush1.obj",
+    "position": [ 360.0, 1.0, -100.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/bushes/bush1.obj",
+    "position": [ 340.0, 0.5, -120.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/bushes/bush1.obj",
+    "position": [ 348.0, 0.5, -123.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/bushes/bush1.obj",
+    "position": [ 350.0, 0.5, -120.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/bushes/bush1.obj",
+    "position": [ 360.0, 0.5, -120.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/bushes/bush1.obj",
+    "position": [ 370.0, 0.5, -110.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/house/house1/house1.obj",
+    "position": [ 360.0, 25.5, 240.0 ],
+    "scale": [ 40.0, 40.0, 40.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/well/well.obj",
+    "position": [ 400.0, 23.5, 335.0 ],
+    "scale": [ 3.0, 3.0, 3.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/rocks/01/rock.obj",
+    "position": [ 200.0, 17.5, 200.0 ],
+    "scale": [ 0.3, 0.3, 0.3 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/house/house2/house2.obj",
+    "position": [ 280.0, 5.0, -43.0 ],
+    "scale": [ 0.05, 0.05, 0.05 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/house/house3/housemedieval.obj",
+    "position": [ 520.0, 24.0, 135.0 ],
+    "scale": [ 2.5, 2.5, 2.5 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/house/house3/housemedieval.obj",
+    "position": [ 390.0, 31.0, -20.0 ],
+    "scale": [ 2.5, 2.5, 2.5 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/house/house4/WoodenCabinObj.obj",
+    "position": [ 610.0, -1.0, -125.0 ],
+    "scale": [ 0.3, 0.3, 0.3 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/house/house4/WoodenCabinObj.obj",
+    "position": [ 650.0, -1.0, -125.0 ],
+    "scale": [ 0.3, 0.3, 0.3 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/house/house4/WoodenCabinObj.obj",
+    "position": [ 570.0, -1.0, -125.0 ],
+    "scale": [ 0.3, 0.3, 0.3 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/well/well.obj",
+    "position": [ 610.0, -11.0, -70.0 ],
+    "scale": [ 4.0, 4.0, 4.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/tower/tower.obj",
+    "position": [ 752.0, 26.0, 25.0 ],
+    "scale": [ 5.0, 5.0, 5.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/elefant/elefante.obj",
+    "position": [ 100.0, 1.0, 120.0 ],
+    "scale": [ 1.5, 1.5, 1.5 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/elefant/elefante.obj",
+    "position": [ 93.0, -2.0, 115.0 ],
+    "scale": [ 0.5, 0.5, 0.5 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/elefant/elefante.obj",
+    "position": [ 105.0, -1.5, 125.0 ],
+    "scale": [ 0.5, 0.5, 0.5 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/elefant/elefante.obj",
+    "position": [ 100.0, 1.0, 120.0 ],
+    "scale": [ 1.5, 1.5, 1.5 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/store/store1/Markett/market2.obj",
+    "position": [ 415.0, -10.0, 80.0 ],
+    "scale": [ 5.0, 5.0, 5.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/store/store1/Markett/market6.obj",
+    "position": [ 380.0, -15.0, 120.0 ],
+    "scale": [ 3.0, 3.0, 3.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/store/store2/store2.obj",
+    "position": [ 380.0, -22.0, 80.0 ],
+    "scale": [ 0.5, 0.5, 0.5 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/store/store3/basket.obj",
+    "position": [ 420.0, -3.0, 130.0 ],
+    "scale": [ 2.0, 2.0, 2.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/store/store3/basket.obj",
+    "position": [ 383.0, -8.0, 80.0 ],
+    "scale": [ 2.0, 2.0, 2.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/will/windmill.obj",
+    "position": [ 425.0, -15.0, 550.0 ],
+    "scale": [ 0.03, 0.03, 0.03 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 422.0, -16.0, 550.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 406.0, -14.0, 550.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 416.0, -13.0, 550.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 436.0, -12.0, 550.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 450.0, -11.0, 550.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 460.0, -11.0, 550.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 470.0, -11.0, 550.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 396.0, -10.0, 550.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 386.0, -10.0, 550.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 460.0, -11.0, 520.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 440.0, -11.0, 520.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 420.0, -11.0, 520.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 400.0, -10.0, 520.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 470.0, -11.0, 500.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 396.0, -9.0, 570.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/grass/grass1.obj",
+    "position": [ 386.0, -8.0, 600.0 ],
+    "scale": [ 10.0, 10.0, 10.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 559.0, -22.3, 614.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 580.0, -5.3, 282.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 684.0, 4.9, 588.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 631.0, -3.2, 581.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 401.0, -11.2, 519.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 214.0, 1.2, -30.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 474.0, -4.2, 625.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 372.0, 15.2, -29.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 268.0, 0.2, -125.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 607.0, -6.2, -83.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 133.0, -11.8, 60.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 715.0, 0.8, 183.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 190.0, 5.8, 392.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 149.0, -20.8, -52.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 638.0, 0.0, 553.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 288.0, 5.0, 384.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 547.0, -6.0, 263.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 393.0, 7.3, 191.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 728.0, -12.3, 390.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 44.0, 2.3, 378.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 274.0, -14.3, 575.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 594.0, 6.3, 155.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 606.0, 5.3, 102.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 408.0, 6.3, 173.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 662.0, -1.3, 483.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 574.0, -0.8, 421.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 397.0, 6.8, 400.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 484.0, -3.8, 237.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 754.0, 14.8, -42.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 717.0, 6.8, 571.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  },
+  {
+    "program": "shaders/static_entity",
+    "model": "models/trees/tree1.obj",
+    "position": [ 86.0, -8.8, -77.0 ],
+    "scale": [ 1.0, 1.0, 1.0 ]
+  }
+]

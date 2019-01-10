@@ -1,0 +1,15 @@
+{
+	"diffuse_textures": [
+        "terrain/textures/diffuse0.png",
+        "terrain/textures/diffuse1.png",
+        "terrain/textures/diffuse2.png",
+        "terrain/textures/diffuse3.png",
+        "terrain/textures/diffuse4.png"
+    ],
+	"height_texture": "terrain/textures/height.png",
+	"shaders": "terrain/shaders/terrain",
+	"size": 800,
+	"maxHeight": 180.0,
+	"vertexCount": 128,
+	"position": [0.0, -90.0, -150.0]
+}

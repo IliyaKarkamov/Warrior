@@ -1,0 +1,53 @@
+{
+	"actions": [{
+        "inputType": 3,
+        "inputValue": 80,
+        "action": 0
+    }],
+    "states": [{
+        "inputType": 3,
+        "inputValue": 65,
+        "state": 0
+    }, {
+        "inputType": 3,
+        "inputValue": 68,
+        "state": 1
+    }, {
+        "inputType": 3,
+        "inputValue": 87,
+        "state": 2
+    }, {
+        "inputType": 3,
+        "inputValue": 83,
+        "state": 3
+    }, {
+        "inputType": 1,
+        "inputValue": 0,
+        "state": 4
+    }],
+    "ranges": [{
+        "inputType": 0,
+        "inputValue": 0,
+        "range": 0,
+        "minimumInput": -1000,
+        "maximumInput": 1000,
+        "minimumOutput": -50,
+        "maximumOutput": 50
+    }, {
+        "inputType": 0,
+        "inputValue": 1,
+        "range": 1,
+        "minimumInput": -1000,
+        "maximumInput": 1000,
+        "minimumOutput": -50,
+        "maximumOutput": 50
+    }, {
+        "inputType": 2,
+        "inputValue": 1,
+        "range": 2,
+        "minimumInput": -2,
+        "maximumInput": 2,
+        "minimumOutput": -2,
+        "maximumOutput": 2
+    }]
+}

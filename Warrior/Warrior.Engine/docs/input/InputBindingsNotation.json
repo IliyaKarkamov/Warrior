@@ -1,0 +1,21 @@
+{
+    "actions": [{
+        "inputType": 0,
+        "inputValue": 0,
+        "action": 0
+    }],
+    "states": [{
+        "inputType": 0,
+        "inputValue": 0,
+        "state": 0
+    }],
+    "ranges": [{
+        "inputType": 0,
+        "inputValue": 0,
+        "range": 0,
+        "minimumInput": -1000,
+        "maximumInput": 1000,
+        "minimumOutput": -1,
+        "maximumOutput": 1
+    }]
+}

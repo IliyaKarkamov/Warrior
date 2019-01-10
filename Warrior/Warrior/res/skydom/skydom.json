@@ -1,0 +1,8 @@
+{
+    "right": "textures/right.jpg",
+    "left": "textures/left.jpg",
+    "top": "textures/top.jpg",
+    "bottom": "textures/bottom.jpg",
+    "front": "textures/front.jpg",
+    "back": "textures/back.jpg"
+}
